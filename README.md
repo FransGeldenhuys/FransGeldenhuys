@@ -3,7 +3,27 @@
 - 🌱 I’m currently learning Data Analytics and business inteligence 
 - 💞️ I’m looking to collaborate on data sets to start a new career and gain knowledge and experience.
 
-- I am open-minded, often coming up with new and interesting ideas. I enjoy novelty and change and avoid routine as much as possible. I am highly adaptable and open to experience. As a Hands-on Learner I approach problem-solving with my preference to rely on my experience to find solutions; sometimes adding to this approach, an analysis of the situation. I enjoy finding more practical solutions to problems and believe that the best learning comes from experience, while also seeing where research may still have its place. I enjoy meeting new people, making contacts and helping your network. My ability to read and influence others means that I am comfortable in most social situations. I am confident and determined to produce work that's consistently strong. I have a sense of competition that motivates me, I value the respect of my peers.
+Data Analytics Profile: Adaptable Sports Enthusiast with a Knack for Innovative Problem-Solving
+
+Combining my passion for sports and interest in data analytics, I offer an open-minded approach and a constant flow of fresh ideas. Routine is not my style; I embrace novelty and actively seek out new experiences to fuel my growth. With a highly adaptable nature, I eagerly immerse myself in diverse situations, relishing the challenges they present.
+
+As a hands-on learner, I rely on personal experiences as the foundation for problem-solving, complemented by careful analysis of each situation. My drive stems from discovering practical solutions grounded in real-world encounters while recognizing the value of research to enhance our understanding. Connecting with people, expanding networks, and building relationships are integral parts of my professional journey. Drawing upon my ability to read and influence others, I navigate social scenarios with confidence.
+
+Determined to consistently deliver exceptional work, I am fueled by a sense of competition and strive for the respect of my peers. While I may have limited professional experience in data analytics, I possess a range of key competencies that can contribute effectively:
+
+Proficiency in inventory management
+Strong time management skills
+Excellent problem-solving abilities
+Dedication to outstanding customer service and meeting requirements
+Skillful key accounts management
+Experience in team leadership
+Advanced computer literacy and adeptness in data management
+Proven ability to handle multiple demands independently and meet deadlines efficiently
+Aptitude for business consulting
+Proficiency in data entry
+Strong analytical skills for data analysis
+Resourcefulness in problem-solving
+Although I may be new to the field, my passion for sports and data analytics fuels my eagerness to learn and grow. I am committed to making a valuable contribution to your organization's data analytics initiatives, leveraging my unique background to offer fresh perspectives and insights.
 - 📫 How to reach me email,github and linkedin,public tableau
 - https://www.linkedin.com/in/frans-geldenhuys1986
 - https://public.tableau.com/app/profile/fransgel
