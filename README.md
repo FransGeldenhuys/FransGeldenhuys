@@ -24,9 +24,10 @@ Proficiency in data entry
 Strong analytical skills for data analysis
 Resourcefulness in problem-solving
 Although I may be new to the field, my passion for sports and data analytics fuels my eagerness to learn and grow. I am committed to making a valuable contribution to your organization's data analytics initiatives, leveraging my unique background to offer fresh perspectives and insights.
-- 📫 How to reach me email,github and linkedin,public tableau
+- 📫 How to reach me email,github and linkedin,public tableau,kaggle
 - https://www.linkedin.com/in/frans-geldenhuys1986
 - https://public.tableau.com/app/profile/fransgel
+- https://www.kaggle.com/fransgel
 
 <!---
 FransGeldenhuys/FransGeldenhuys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
